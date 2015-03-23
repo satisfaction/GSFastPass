@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "GSFastPass"
-  s.version      = "0.0.1"
+  s.version      = "0.0.1-beta1"
   s.license      = "MIT"
   s.summary      = "Objective-C library for Get Satisfaction's FastPass authentication"
   s.homepage     = "https://github.com/satisfaction/GSFastPass"
