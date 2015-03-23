@@ -18,9 +18,7 @@ GSFastPass *fastPass = [[GSFastPass alloc] initWithHost:@"getsatisfaction.com"
                                                protocol:@"https"
                                             consumerKey:@"consumerKey"
                                          consumerSecret:@"consumerSecret"];
-```
 
-```objective-c
 NSURL *fastPassURL = [fastPass loginUrlForCommunity:@"community-name"
                                               email:@"user-email@company.com"
                                                name:@"username"
