@@ -6,7 +6,7 @@ Objective-C library for Get Satisfaction's FastPass authentication
 
 ```ruby
 platform :ios, '6.0'
-pod "GSFastPass", "~> 0.0"
+pod "GSFastPass", "~> 0.0.1-beta"
 ```
 
 ```objective-c
